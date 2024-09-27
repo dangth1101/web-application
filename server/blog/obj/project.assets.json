@@ -1604,19 +1604,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dang Trinh\\.nuget\\packages\\": {}
+    "C:\\Users\\Trinh Huynh Dang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dang Trinh\\Desktop\\Projects\\web application\\server\\blog\\blog.csproj",
+      "projectUniqueName": "C:\\Users\\Trinh Huynh Dang\\Desktop\\projects\\web-application\\server\\blog\\blog.csproj",
       "projectName": "blog",
-      "projectPath": "C:\\Users\\Dang Trinh\\Desktop\\Projects\\web application\\server\\blog\\blog.csproj",
-      "packagesPath": "C:\\Users\\Dang Trinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dang Trinh\\Desktop\\Projects\\web application\\server\\blog\\obj\\",
+      "projectPath": "C:\\Users\\Trinh Huynh Dang\\Desktop\\projects\\web-application\\server\\blog\\blog.csproj",
+      "packagesPath": "C:\\Users\\Trinh Huynh Dang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Trinh Huynh Dang\\Desktop\\projects\\web-application\\server\\blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dang Trinh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Trinh Huynh Dang\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1634,11 +1634,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1677,7 +1672,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
